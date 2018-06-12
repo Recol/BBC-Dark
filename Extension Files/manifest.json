@@ -11,7 +11,11 @@
 
 	},
 	
-	 "permissions": [
+	"browser_action": {
+	 "default_popup": "gui.html"
+	},	
+	
+	"permissions": [
       
 	],
 
