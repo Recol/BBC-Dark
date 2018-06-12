@@ -1,0 +1,26 @@
+{
+	"name": "BBC Dark Theme",
+	"version": "0.1",
+	"manifest_version": 2,
+	"description": "Used to darken the look of the BBC News.",
+	"short_name": "ADT",
+	"author": "Deco",
+
+	"icons": {
+		"128": "icon3.png",
+		"256": "icon2.png"
+
+	},
+	
+	 "permissions": [
+      
+	],
+
+	"content_scripts":[{
+		"matches": ["https://www.bbc.co.uk/news/*"],
+		"css": ["code1.css"]
+		
+	}]
+	 
+	
+}

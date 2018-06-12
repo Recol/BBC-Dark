@@ -1,1 +1,48 @@
-
+div#page.configurable.index{background-color:#161616 !important}
+.navigation-wide-list--secondary{background: #212121 !important}
+.secondary-navigation--wide{background-color:#212121 !important}
+.secondary-navigation__title.navigation-wide-list__link span{color: gray !important}
+.navigation-wide-list--secondary .navigation-wide-list__link, .navigation-wide-list--secondary .navigation__more-button{color: gray !important}
+.orb-nav-pri a{color: gray !important}
+.orb-nav-active, .orb-nav-pri-white{background:#232323 !important}
+.orb-nav-pri .orb-nav-blocks img {background-color:transparent !important}
+.orb-nav-pri{border-bottom:1px solid transparent !important}
+.orb-nav-links li{border-left: 1px solid transparent !important; border-right: 1px solid transparent !important}
+.orb-nav-pri-white .orb-nav-id{border-color: #232323 !important}
+.orb-nav-pri-white .orb-nav-links ul{border-color: #232323 !important}
+.column--secondary .distinct-component-group.container-condor{border-left: 1px solid #181818 !important}
+.distinct-component-group+.distinct-component-group{border-top: 1px solid #181818 !important}
+.nw-p-oat .nw-c-maxim-wrap{background-color:#161616 !important}
+.nw-c-nav__wide-secondary{background-color:transparent !important}
+.column--primary{background-color:transparent !important}
+.lx-c-session-body{background-color:#161616 !important}
+.swift{background-color:#161616 !important}
+.title-link__title-text{color: #686868 !important}
+.links-list__link:visited{color:#666 !important}
+.buzzard__links-list .links-list__lin{color: #686868 !important}
+.group-title__link{color: #686868 !important}
+.simple-list__link{color: #666 !important}
+.links-list__link{color: #686868 !important}
+.column--secondary .container-condor+.group-title-component{border-left: #181818 !important}
+.column--secondary .container-condor+.group-title-component+.simple-list{border-left: #181818 !important}
+.follow-us{background-color:#161616 !important}
+.follow-us__list-item-link.follow-us__list-item-link--twitter{background-color:#161616 !important; color: gray !important}
+.follow-us__list-item-link.follow-us__list-item-link--facebook{background-color:#161616 !important; color: gray !important}
+.follow-us__list-item--block .follow-us__list-item-link{background-color:#161616 !important; color: gray !important}
+.container-heron{background:#161616 !important}
+.hr-thick, .spacer, .hr{background-color: #181818 !important}
+.infeednewsindex-ad+.distinct-component-group{border-top: 0px !important}
+.flex .sparrow{background-color:#161616 !important}
+.sparrow__light-3 .sparrow-item{background-color:transparent !important}
+.sparrow .sparrow-item{border-color: transparent !important}
+.correspondent-promo__latest-story{background-color:transparent !important}
+.correspondent-promo__headline{color:#686868 !important}
+.distinct-component-group+.correspondent-promo{border-top: #181818 !important}
+.flex .sparrow-item{background-color:#161616 !important}
+.correspondent-promo+.distinct-component-group{border-top: #181818 !important}
+[data-post-load-url]+div>.distinct-component-group{border-top: #181818 !important}
+a.faux-block-link__overlay-link{background-color:#161616 !important}
+.flex .pukeko-item--dark .pukeko-item__body{background-color:transparent}
+.pigeon__column--b:before{border-left: #181818 !important}
+.pigeon__column--a:before{border-left: #181818 !important}
+.pigeon__column--b .pigeon-item+.pigeon-item{border-top: #181818 !important}
