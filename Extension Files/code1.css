@@ -59,3 +59,6 @@ div#page.configurable.story{background-color: #161616 !important}
 .most-popular__title{background-color: #161616 !important}
 .most-popular-list-item__link{color: gray !important}
 .story-body__crosshead{color: #696969 !important}
+.with-extracted-share-icons .extracted-svg{background-color: #161616 !important}
+.twite__share-button{background: #161616 !important}
+.with-extracted-share-icons .tags-list__tags a{border: 0px !important; color: #828282 !important}
