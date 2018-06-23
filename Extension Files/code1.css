@@ -49,4 +49,5 @@ a.faux-block-link__overlay-link{background-color:#161616 !important}
 .gs-u-display-block{background:#212121 !important} //* Note to improve script targetting later on, to count for clipping on navigation bar.*//
 .gs-u-box-size, .gs-u-box-size *{background-color:#161616 !important}
 .nw-c-nav__secondary-sections /*Navigation bar*/ {background-color: #181818 !important}
-/*Base Politics code is clashing with main navigation page promotional background colours./*
+/*Base Politics code is clashing with main navigation page promotional background colours.*/
+.markets-index-promo{background-color: #161616 !important}
