@@ -46,7 +46,7 @@ a.faux-block-link__overlay-link{background-color:#161616 !important}
 .pigeon__column--b:before{border-left: #181818 !important}
 .pigeon__column--a:before{border-left: #181818 !important}
 .pigeon__column--b .pigeon-item+.pigeon-item{border-top: #181818 !important}
-.gs-u-display-block{background:#212121 !important} //* Note to improve script targetting later on, to count for clipping on navigation bar.*//
+.gs-u-display-block{background:#212121 !important} /* Note to improve script targetting later on, to count for clipping on navigation bar.*/
 .gs-u-box-size, .gs-u-box-size *{background-color:#161616 !important}
 .nw-c-nav__secondary-sections /*Navigation bar*/ {background-color: #181818 !important}
 /*Base Politics code is clashing with main navigation page promotional background colours.*/
@@ -62,3 +62,46 @@ div#page.configurable.story{background-color: #161616 !important}
 .with-extracted-share-icons .extracted-svg{background-color: #161616 !important}
 .twite__share-button{background: #161616 !important}
 .with-extracted-share-icons .tags-list__tags a{border: 0px !important; color: #828282 !important}
+#orb-modules{background-color:#161616 !important}
+.nw-c-nav__wide-menuitem-container span{background-color: #bb1919 !important} /*Main page navigation bar*/
+.nw-c-nav__wide-menuitem-container span, .nw-c-nav__secondary-menuitem-container span{color: white !important}
+.nw-c-nav__wide-menuitem-container a {background-color:#bb1919 !important}
+.nw-c-nav__secondary-sections{background-color:#181818 !important}
+.no-touch .gel-pica-bold{color: gray !important}
+.gel-paragon-bold{color: gray !important}
+.gs-c-promo-heading gs-o-faux-block-link__overlay-link gel-paragon-bold nw-o-link-split__anchor{color: gray !important}
+.gs-c-section-link--truncate{color: gray !important}
+.nw-c-must-see-heading__title{color: gray !important}
+.gel-layout__item nw-c-top-stories__tertiary-items gel-1/5@xxl gs-u-pb@xxl{border-bottom: 1px transparent !important}
+.top-stories-promo-story__title{color: gray !important}
+h1.index-title a, .index-title__container a{color: gray !important}
+.nw-c-top-stories-primary__related-content gs-u-pb-alt@m gs-u-pb0@l{color: gray !important}
+.nw-o-link-split__text{color: gray !important}
+.gs-c-media-indicator__icon svg{color: #5f5656 !important}
+.nw-c-circle svg{color: #5f5656 !important}
+#page.vxp{background-color: #161616 !important}
+.vxp-carousel__gradient, .vxp-carousel__gradient-front{background-color:#161616 !important}
+div.vxp-carousel__gradient{background:#161616 !important}
+div.vxp-carousel__gradient-front{background:#161616 !important}
+.vxp-carousel__headline{color: gray !important}
+.vxp-media__headline{color: gray !important}
+.extracted-svg{background-color:#202020 !important}
+.vxp-share__share-button{background:#202020 !important}
+.vxp-recommended__title span{background-color:#161616 !important;color: gray !important}
+.vxp-related-content__headline{color: gray !important}
+.vxp-recommended__headline{color: gray !important}
+.vxp-mostpop__title span{background-color:#161616 !important; color:gray !important}
+.vxp-mostpop__list-item-headline{color: gray !important}
+.trust-project{background-color: #181818 !important; color: gray !important}
+.vxp-related-content__title{border-top: 0px !important}
+.vxp-badge__text{color: gray !important; background-color:#161616 !important}
+.vxp-badge__icon--video{background-color:#161616 !important;color: gray !important}
+.story-body__list-item a{color: gray !important}
+.cmts-header{background:#181818 !important}
+.cmt-narrow-view h3.cmt-title, .cmt-narrow-view .cmts-header p, .cmt-narrow-view .cmts-header .comments-post-comment{color: gray !important}
+textarea.cmts-post-box{background-color: #202020 !important}
+.cmts-type-view{background-color:#202020 !important}
+.cmts-type-view-li a.selected{background:#202020 !important}
+.afs-cmts-outer *{color: gray !important}
+.story-body__link, .story-body__link-external{color: gray !important}
+.most-popular-list-item__headline{color: gray !important}
