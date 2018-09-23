@@ -106,3 +106,9 @@ textarea.cmts-post-box{background-color: #202020 !important}
 .story-body__link, .story-body__link-external{color: gray !important}
 .most-popular-list-item__headline{color: gray !important}
 .tags-container{border-bottom: 0px solid !important; border-top: 0px solid !important}
+.nw-c-feature-promo__heading{background: linear-gradient(0deg,#151515,transparent) !important}
+.contact-form__input{background-color: #171717 !important; border: 1px solid #151515 !important; color: #404040 !important}
+.contact-form__textarea{background-color: #171717 !important; border: 1px solid #151515 !important; color: gray !important}
+.contact-form__input--submit{background:#171717 !important}
+.tags-list__tags a{background-color: #171717 !important; color: gray !important; border: 1px solid #151515 !important}
+.live-timeline-inner a, a .cta{color: gray !important}
