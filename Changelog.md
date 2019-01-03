@@ -10,3 +10,8 @@ Contact forms on BBC news articles have now been darkened.
 Submission button colours have now been corrected.
 Tag titles have now been lightened.
 Timeline headers have been corrected.
+
+  **V1.3**
+Darkened the "More Articles" near the bottom of the BBC News page.
+Darkened a missed button near the bottom of the comments section.
+Fixed some colour mismatch near the bottom of the comments section.
