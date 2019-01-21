@@ -25,3 +25,4 @@ Changed match patterns to the entire BBC domain, and subdomains.
 Split element code into section according to section.  
 Renamed repository accordingly.  
 Updated the Chrome Web Store.  
+Removed GUI html file.  
