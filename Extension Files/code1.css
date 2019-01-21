@@ -99,7 +99,7 @@ div.vxp-carousel__gradient-front{background:#161616 !important}
 .story-body__list-item a{color: gray !important}
 .cmts-header{background:#181818 !important}
 .cmt-narrow-view h3.cmt-title, .cmt-narrow-view .cmts-header p, .cmt-narrow-view .cmts-header .comments-post-comment{color: gray !important}
-textarea.cmts-post-box{background-color: #202020 !important}
+textarea.cmts-post-box{background-color: #181818 !important}
 .cmts-type-view{background-color:#202020 !important}
 .cmts-type-view-li a.selected{background:#202020 !important}
 .afs-cmts-outer *{color: gray !important}
@@ -112,3 +112,7 @@ textarea.cmts-post-box{background-color: #202020 !important}
 .contact-form__input--submit{background:#171717 !important}
 .tags-list__tags a{background-color: #171717 !important; color: gray !important; border: 1px solid #151515 !important}
 .live-timeline-inner a, a .cta{color: gray !important}
+.cmts-ft{background:#161616 !important}
+.flex .pukeko-item__inner{background-color:#161616 !important}
+.flex .pukeko-item--dark .pukeko-item__body{background-color:#161616 !important}
+.lx-stream-post__header-title>*{color: gray !important}

@@ -1,6 +1,6 @@
 {
 	"name": "BBC Dark Theme",
-	"version": "1.2",
+	"version": "1.4",
 	"manifest_version": 2,
 	"description": "Used to darken the look of the BBC News.",
 	"short_name": "BBC Dark",
@@ -11,19 +11,11 @@
 		"256": "icon2.png"
 
 	},
-	
-	"browser_action": {
-	 "default_popup": "gui.html"
-	},
-	
-	
-	 "permissions": [
-      
-	],
+
 
 	"content_scripts":[{
-		"matches": ["https://www.bbc.co.uk/news/*"],
-		"css": ["code1.css"]
+		"matches": ["https://www.bbc.co.uk/*", "https://www.bbc.co.uk/"],
+		"css": ["code1.css", "sports.css", "main.css"]
 		
 	}]
 	 
