@@ -15,3 +15,13 @@ Timeline headers have been corrected.
 Darkened the "More Articles" near the bottom of the BBC News page.
 Darkened a missed button near the bottom of the comments section.
 Fixed some colour mismatch near the bottom of the comments section.
+
+  **V1.4**
+Opened to the entire BBC website.
+Updated BBC elements for the Sports section.
+Fixed dark text under live Political coverage of Parliament.
+Removed redundant manifest permissions.
+Changed match patterns to the entire BBC domain, and subdomains.
+Split element code into section according to section.
+Renamed repository accordingly.
+Updated the Chrome Web Store.
