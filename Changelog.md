@@ -26,3 +26,11 @@ Split element code into section according to section.
 Renamed repository accordingly.  
 Updated the Chrome Web Store.  
 Removed GUI html file.  
+
+  **V1.5**  
+Removed the BBC logo on the main page. 
+Button navigation screen spacing has been increased.
+Fixed black text on the BBC homepage "Welcome to the BBC".
+Darkened the "More" section under the homepage.
+Fixed page under Local news.
+Lightened input for local news searches.
