@@ -1,8 +1,8 @@
 {
-	"name": "BBC Dark Theme",
-	"version": "1.4",
+	"name": "BBC Dark",
+	"version": "1.5",
 	"manifest_version": 2,
-	"description": "Used to darken the look of the BBC News.",
+	"description": "Used to darken the look of the BBC website.",
 	"short_name": "BBC Dark",
 	"author": "Deco",
 

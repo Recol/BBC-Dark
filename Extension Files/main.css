@@ -4,3 +4,6 @@ div.hp-module__container.hp-module--light-theme{background-color: #161616 !impor
 .hp-tv-radio__putty .hp-slider-container:before{background: #171717 !important}
 .hp-tv-radio__putty .hp-slider-container:after{background: #171717!important}
 .orb-js .hp-slider-container, .top-story__live-badge{background-color:#161616 !important}
+.hp-banner__text{color: gray !important}
+.orb-nav-pri .orb-nav-blocks a{display: none !important}
+#orb-panel-more{background: #161616 !important; border-top: currentColor !important; border-color: #181818 !important}
