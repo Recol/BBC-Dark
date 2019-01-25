@@ -1,7 +1,8 @@
 # BBC Dark
 Source files for the extension for making BBC dark.
 
-<p>URL: https://chrome.google.com/webstore/detail/bbc-dark-theme/bdifipamjgmfefcpemmlppcmcdjndhig</p>
+<p>**URL:** https://chrome.google.com/webstore/detail/bbc-dark-theme/bdifipamjgmfefcpemmlppcmcdjndhig  
+**UserStyles:** https://userstyles.org/styles/164869/dark-bbc   
 
 <p> </p>
 
