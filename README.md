@@ -45,4 +45,4 @@ Fixed page under Local news.
 Lightened input for local news searches.  
 
  **V1.6**  
-Provided exemption for BBC Weather in order to improve the map colour transparency with the background.
+Provided an exemption for BBC Weather in order to improve the map colour transparency with the background.
