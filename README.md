@@ -47,7 +47,7 @@ Lightened input for local news searches.
  **V1.6**  
 Provided an exemption for BBC Weather in order to improve the map colour transparency with the background.
 
- **V1.7**
+ **V1.7**  
 Darkened the comments counter under the BBC comments section.  
 Layered the comments section filter with a darkened colour.  
 Improved the overall look of the comments section to bring it inline with article colours.  
