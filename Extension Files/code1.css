@@ -100,8 +100,8 @@ div.vxp-carousel__gradient-front{background:#161616 !important}
 .cmts-header{background:#181818 !important}
 .cmt-narrow-view h3.cmt-title, .cmt-narrow-view .cmts-header p, .cmt-narrow-view .cmts-header .comments-post-comment{color: gray !important}
 textarea.cmts-post-box{background-color: #181818 !important}
-.cmts-type-view{background-color:#202020 !important}
-.cmts-type-view-li a.selected{background:#202020 !important}
+.cmts-type-view{background-color:transparent!important}
+.cmts-type-view-li a.selected{background:transparent !important}
 .afs-cmts-outer *{color: gray !important}
 .story-body__link, .story-body__link-external{color: gray !important}
 .most-popular-list-item__headline{color: gray !important}
@@ -118,4 +118,4 @@ textarea.cmts-post-box{background-color: #181818 !important}
 .lx-stream-post__header-title>*{color: gray !important}
 .nw-c-local__cold-start .nw-c-local__heading-title{color: gray !important}
 .nw-c-local__news-controller-container .ls-c-search__input{color: gray !important}
-.wr-c-decorative-map .wr-c-map-background img{background-color: gray !important}
+.wr-c-decorative-map .wr-c-map-background img{background-color: gray !important} /* bbc weather exemption*/

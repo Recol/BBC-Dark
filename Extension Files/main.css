@@ -7,3 +7,7 @@ div.hp-module__container.hp-module--light-theme{background-color: #161616 !impor
 .hp-banner__text{color: gray !important}
 .orb-nav-pri .orb-nav-blocks a{display: none !important}
 #orb-panel-more{background: #161616 !important; border-top: currentColor !important; border-color: #181818 !important}
+.cmt-narrow-view .cmts-header p.cmt-length-message{background-color:transparent !important}
+.cmt-narrow-view .cmts-top-sort-control{background-color: transparent !important}
+.comments-button__icon{background-color:#161616 !important}
+.comments-button__count.dna-comment-count-show{background-color:#161616 !important}
