@@ -52,3 +52,11 @@ Darkened the comments counter under the BBC comments section.
 Layered the comments section filter with a darkened colour.  
 Improved the overall look of the comments section to bring it inline with article colours.  
 Darkened the BBC comments section button.  
+
+  **V1.8**
+  Fully themed BBC Sport articles.
+  Minor corrections to border hex valuations.
+  Implemented inheritance check for lightening article titles.
+  Corrected colour background for downloading the BBC app.
+  
+  
