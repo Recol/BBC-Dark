@@ -1,6 +1,6 @@
 {
 	"name": "BBC Dark",
-	"version": "1.8",
+	"version": "1.9",
 	"manifest_version": 2,
 	"description": "Used to darken the look of the BBC website.",
 	"short_name": "BBC Dark",
@@ -14,7 +14,7 @@
 
 
 	"content_scripts":[{
-		"matches": ["https://www.bbc.co.uk/*", "https://www.bbc.co.uk/"],
+		"matches": ["https://www.bbc.co.uk/*", "https://www.bbc.co.uk/", "https://www.bbc.com/*"],
 		"css": ["code1.css", "sports.css", "main.css"]
 		
 	}]
