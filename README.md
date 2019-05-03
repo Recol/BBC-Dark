@@ -60,3 +60,5 @@ Darkened the BBC comments section button.
   Corrected colour background for downloading the BBC app.  
   
   
+  **V1.9**  
+  Now supports the bbc.com domain.  
