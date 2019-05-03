@@ -62,3 +62,4 @@ Darkened the BBC comments section button.
   
   **V1.9**  
   Now supports the bbc.com domain.  
+  Changed the Chrome Web Store description.
