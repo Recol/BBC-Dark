@@ -63,3 +63,12 @@ Darkened the BBC comments section button.
   **V1.9**  
   Now supports the bbc.com domain.  
   Changed the Chrome Web Store description.
+
+  **V2.0**  
+ Links contained within BBC Sports articles have been colour corrected.  
+ A design overhaul for the comments section under BBC Sports articles (work in progress).  
+ The BBC Comments loading bar has now been darkened.  
+ Darkened the page on "Regions" for finding news related to specific areas.  
+ Removed white banners under the "Regions" area.  
+ Improvements to title gray scaling.  
+ 
