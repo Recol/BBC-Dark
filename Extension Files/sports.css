@@ -20,13 +20,19 @@
 .afs-cmts-outer p{color: gray !important}
 .cmts-list h4{color: gray !important}
 .cmt-time{color: gray !important}
-.reith-typeface *{color: gray !important}
 .afs-cmts-outer a{color: gray !important}
 .cmts-header{background: #161616 !important; color: gray !important}
-.cmts-type-view-li a.selected{background: #161616 !important}
+.cmts-type-view-li a{background: #161616 !important; color: gray !important}
 .cmts-post-box{background: #161616 !important; color: gray !important}
 .afs-cmts-outer ul, .afs-cmts-outer li{background: #161616 !important}
 .cmt-text{color: gray !important}
 .afs-cmts-outer {color: gray !important}
-.cmts-header{background-color: #161616 !important}
+.cmts-header{background: #161616 !important; color: gray !important}
 .cmts-list li{color: gray !important}
+.comments-tag{color: gray !important}
+.gel-long-primer{color: gray !important}
+.gel-long-primer-bold{color: gray !important}
+.sp-story-body .sp-story-body__cross-head{color: gray !important}
+.story-comments__button-item{background-color: #161616 !important}
+.button--secondary{background-color: #161616 !important}
+.sp-story-body .sp-story-body__table tbody td{color: gray !important}

@@ -119,3 +119,6 @@ textarea.cmts-post-box{background-color: #181818 !important}
 .nw-c-local__cold-start .nw-c-local__heading-title{color: gray !important}
 .nw-c-local__news-controller-container .ls-c-search__input{color: gray !important}
 .wr-c-decorative-map .wr-c-map-background img{background-color: gray !important} /* bbc weather exemption*/
+div.nw-c-nav__wide-overflow-list.gel-layout{background-color:#212121 !important} 
+div.nw-c-nav__wide-overflow-list.gel-layout a.nw-o-link{background-color: #212121 !important}
+.nw-c-nav__wide-overflow .nw-c-nav__wide-menuitem-container span{background-color: #212121 !important}
