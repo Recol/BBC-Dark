@@ -72,3 +72,17 @@ Darkened the BBC comments section button.
  Removed white banners under the "Regions" area.  
  Improvements to title gray scaling.  
  
+ **V2.1**  
+ 
+ Lighted the comment counter colour on BBC Sports articles.  
+ Lightened BBC Sports lists for results.  
+ Lightened BBC Sports article author colours to make them more readable.  
+ Corrected BBC Sports article location colours.  
+ Improvements to BBC Sports article header colours.  
+ Finalised darkening the BBC Sports comments button.    
+ Fixed incorrect configuration settings preventing certain sections from appearing correctly.  
+ Darkened the BBC Sports comments section filter.  
+ Lightened BBC Sports comments, and the upvote and downvote counters.  
+ Removed conflicting code to fix clashing.  
+ Fully fixed the "More" section of the BBC viewer.  
+   
