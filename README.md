@@ -85,4 +85,8 @@ Darkened the BBC comments section button.
  Lightened BBC Sports comments, and the upvote and downvote counters.  
  Removed conflicting code to fix clashing.  
  Fully fixed the "More" section of the BBC viewer.  
+ 
+ **V2.2**  
    
+ Correction to missing borders under the "Brexit" category.  
+     
