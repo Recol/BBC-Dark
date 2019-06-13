@@ -90,3 +90,8 @@ Darkened the BBC comments section button.
    
  Correction to missing borders under the "Brexit" category.  
      
+**V2.3**  
+
+ Expanded Chrome's regex match patterns to fix problems with the script not injecting on different BBC domain CDN's. 
+ Improved URL matching formatting for the manifest file.  
+   
