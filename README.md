@@ -4,7 +4,7 @@
 Download via:  
  <a href="https://chrome.google.com/webstore/detail/bbc-dark-theme/bdifipamjgmfefcpemmlppcmcdjndhig"> **Chrome** </a>  
 <a href="https://userstyles.org/styles/164869/dark-bbc"> **UserStyles** </a>   
-**FireFox** (WIP)
+**Firefox** (WIP)
 <p> </p>
   
   
