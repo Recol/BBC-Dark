@@ -96,4 +96,4 @@ Darkened the BBC comments section button.
 
  Expanded Chrome's regex match patterns to fix problems with the script not injecting on different BBC domain CDN's. 
  Improved URL matching formatting for the manifest file.  
-   
+ Released for Firefox.  
