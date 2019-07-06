@@ -2,9 +2,9 @@
   
 
 Download via:  
- <a href="https://chrome.google.com/webstore/detail/bbc-dark-theme/bdifipamjgmfefcpemmlppcmcdjndhig"> **Chrome** </a>  
-<a href="https://userstyles.org/styles/164869/dark-bbc"> **UserStyles** </a>   
-<a href="https://addons.mozilla.org/en-GB/firefox/addon/bbc-dark/"> **Firefox** </a>  
+ <a href="https://chrome.google.com/webstore/detail/bbc-dark-theme/bdifipamjgmfefcpemmlppcmcdjndhig"> **Chrome** </a>  **(V2.4 Deployed)**
+<a href="https://userstyles.org/styles/164869/dark-bbc"> **UserStyles** </a>   **(V2.4 Deployed)**
+<a href="https://addons.mozilla.org/en-GB/firefox/addon/bbc-dark/"> **Firefox** </a>  **(V2.3 In Deployment)**
 <p> </p>
   
   
