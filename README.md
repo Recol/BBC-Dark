@@ -119,5 +119,5 @@ Provided an exemption for BBC Weather in order to improve the map colour transpa
   Darkened the "Show Scorers" button under the BBC Sports fixtures.  
   Darkened the date timeline under BBC Sports score fixtures.  
   Lightened BBC Sports article headers for better visual clarity.  
-  Implemented usage of version naming in Chrome.  
+  Implemented usage of version naming in Chrome for indicators from within the Chrome extensions page of what each update consists of.    
   
