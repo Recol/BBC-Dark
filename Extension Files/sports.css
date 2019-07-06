@@ -36,3 +36,23 @@
 .story-comments__button-item{background-color: #161616 !important}
 .button--secondary{background-color: #161616 !important}
 .sp-story-body .sp-story-body__table tbody td{color: gray !important}
+
+.manual-stats-link_list>li{background-color: #161616 !important}
+.manual-stats-link__link{color: gray !important}
+.spacing-v2 .component--default+.component--bg{background-color: #161616 !important}
+.aintree__item{background-color: #161616 !important}
+
+.secondary-nav--primary-nav-flyout-open{background-color: transparent !important}
+/*Contains the BBC Sports navigation bar under All Sports*/
+
+.secondary-nav--primary-nav-flyout-open .secondary-nav__items-wrap{background: transparent !important}
+.sp-story-body .sp-story-body__table thead th{background: #161616 !important; color: gray !important}
+.story-body .sp-media-asset--lead .sp-media-asset__caption{background-color: #161616 !important; color: gray !important}
+.sp-c-tabs__link{background-color: #161616 !important; color: white !important}
+.gs-o-table__head{background-color: #161616 !important; color: gray !important}
+.sp-c-fixture__team{background-color: #161616 !important; color: white !important}
+.sp-c-fixture__team-name-trunc{background-color: #161616 !important; color: gray !important}
+.sp-c-football-scores-button--show-scorers{background-color: #161616 !important; color: gray !important}
+.sp-c-date-picker-timeline__item-inner{background-color: #161616 !important; color: #161616 !important}
+.sp-c-date-picker-timeline__item{border-color: #181818 !important; background-color: #161616 !important}
+.no-touch .gel-trafalgar{color: gray !important}
