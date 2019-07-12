@@ -121,3 +121,8 @@ Provided an exemption for BBC Weather in order to improve the map colour transpa
   Lightened BBC Sports article headers for better visual clarity.  
   Implemented usage of version naming in Chrome for indicators from within the Chrome extensions page of what each update consists of.    
   
+**V2.5**  
+  
+  Dark themeing applied to BBC Extra articles.  
+  Themed BBC menu sticky bars which appear when scrolling through an articles.  
+    
