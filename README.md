@@ -123,6 +123,6 @@ Provided an exemption for BBC Weather in order to improve the map colour transpa
   
 **V2.5**  
   
-  Dark themeing applied to BBC Extra articles.  
+  Dark theming applied to BBC Extra articles.  
   Themed BBC menu sticky bars which appear when scrolling through an articles.  
     
