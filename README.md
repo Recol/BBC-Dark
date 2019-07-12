@@ -3,10 +3,10 @@
 
 Download via:  
 <a href="https://chrome.google.com/webstore/detail/bbc-dark-theme/bdifipamjgmfefcpemmlppcmcdjndhi"> 
-![Chrome Logo](https://www.google.com/chrome/static/images/chrome-logo.svg) </a>    
+![Chrome Logo](https://www.google.com/chrome/static/images/chrome-logo.svg)</a>    
 <a href="https://userstyles.org/styles/164869/dark-bbc"> 
 ![UserStyles Logo](https://userstyles.org/ui/images/stylish-logo-2.svg)</a>    
-<a href="https://addons.mozilla.org/en-GB/firefox/addon/bbc-dark"> ![Firefox](https://www.mozilla.org/media/img/logos/firefox/logo-quantum.9c5e96634f92.png) </a>
+<a href="https://addons.mozilla.org/en-GB/firefox/addon/bbc-dark"> ![Firefox](https://www.mozilla.org/media/img/logos/firefox/logo-quantum.9c5e96634f92.png)</a>
 <p> </p>
   
   
