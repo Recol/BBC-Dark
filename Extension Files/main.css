@@ -17,3 +17,7 @@ div.hp-module__container.hp-module--light-theme{background-color: #161616 !impor
 .ff .nav-detail .level-3 a{background-color: #161616 !important; color: gray !important}
 .page-title{color: gray !important}
 .nav-detail .level-2:before{display: none !important}
+
+.Theme-Section-Light{background-color:#161616 !important}
+.Theme-Layer-BodyText{background-color:#161616 !important; color: gray !important}
+.PositionSticky{background-color: #161616 !important}
