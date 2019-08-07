@@ -2,7 +2,7 @@
   
 
 # Downloads:  
-![Chrome Logo](https://i.imgur.com/Km8qRjK.png)</a>    
+![Chrome Logo](https://i.imgur.com/JXBf0eC.png)</a>    
 <a href="https://userstyles.org/styles/164869/dark-bbc"> 
 
 ![UserStyles Logo](https://userstyles.org/ui/images/stylish-logo-2-copy-2.svg)</a>    
