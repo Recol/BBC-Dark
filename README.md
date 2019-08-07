@@ -2,7 +2,7 @@
   
 
 # Downloads:  
-![Chrome Logo](https://miro.medium.com/max/1719/1*Aq7fdSWvVghR72qaN7ul5w.png)</a>    
+![Chrome Logo](https://miro.medium.com/max/1719/1*Aq7fdSWvVghR72qaN7ul5wwww.kineticitsolutions.com/wp-content/uploads/2017/12/Chrome_Logo.png)</a>    
 <a href="https://userstyles.org/styles/164869/dark-bbc"> 
 
 ![UserStyles Logo](https://userstyles.org/ui/images/stylish-logo-2-copy-2.svg)</a>    
@@ -132,3 +132,6 @@ Provided an exemption for BBC Weather in order to improve the map colour transpa
   Dark theming applied to BBC Extra articles.  
   Themed BBC menu sticky bars which appear when scrolling through an articles.  
     
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTY0ODI0NjExNl19
+-->
