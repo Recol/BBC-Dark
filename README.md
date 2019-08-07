@@ -2,7 +2,7 @@
   
 
 # Downloads:  
-![Chrome Logo](https://www.google.com/chrome/static/images/chrome-logo.svg)</a>    
+![Chrome Logo](https://upload.wikimedia.org/wikipedia/commons/9/91/Google_Chrome_logo_and_wordmark_%282015%29.png)</a>    
 <a href="https://userstyles.org/styles/164869/dark-bbc"> 
 
 ![UserStyles Logo](https://userstyles.org/ui/images/stylish-logo-2.svg)</a>    
