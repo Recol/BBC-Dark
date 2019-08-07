@@ -2,7 +2,7 @@
   
 
 # Downloads:  
-![Chrome Logo](https://miro.medium.com/max/1719/1*Aq7fdSWvVghR72qaN7ul5wwww.kineticitsolutions.com/wp-content/uploads/2017/12/Chrome_Logo.png)</a>    
+![Chrome Logo](https://i.imgur.com/Km8qRjK.png)</a>    
 <a href="https://userstyles.org/styles/164869/dark-bbc"> 
 
 ![UserStyles Logo](https://userstyles.org/ui/images/stylish-logo-2-copy-2.svg)</a>    
