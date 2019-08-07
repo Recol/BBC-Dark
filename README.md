@@ -5,7 +5,7 @@
 ![Chrome Logo](https://www.kineticitsolutions.com/wp-content/uploads/2017/12/Chrome_Logo.png)</a>    
 <a href="https://userstyles.org/styles/164869/dark-bbc"> 
 
-![UserStyles Logo](https://userstyles.org/ui/images/stylish-logo-2.svg)</a>    
+![UserStyles Logo](https://userstyles.org/ui/images/stylish-logo-2-copy-2.svg)</a>    
 <a href="https://addons.mozilla.org/en-GB/firefox/addon/bbc-dark"> 
   
   ![Firefox](https://www.mozilla.org/media/img/logos/firefox/logo-quantum-wordmark-white.8826129afb1d.png)</a>
