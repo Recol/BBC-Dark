@@ -132,6 +132,16 @@ Provided an exemption for BBC Weather in order to improve the map colour transpa
   Dark theming applied to BBC Extra articles.  
   Themed BBC menu sticky bars which appear when scrolling through an articles.  
     
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0ODI0NjExNl19
--->
+**V2.6**  
+
+  Corrections to category titles to make them more viewable.  
+  Darkened the search bar on the BBC.  
+  Improvements to the BBC search bar which appears afterwards.  
+  Corrected conflicting colours with category titles.  
+  Improvements to hover elements to suggestions on the BBC search.  
+  Lightened BBC search results titles for better readability.  
+  Lightened BBC search results categories.  
+  Darkened the BBC search footer.  
+  Lightened the footer text for readability.  
+  
+  
