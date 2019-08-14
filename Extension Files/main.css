@@ -21,3 +21,14 @@ div.hp-module__container.hp-module--light-theme{background-color: #161616 !impor
 .Theme-Section-Light{background-color:#161616 !important}
 .Theme-Layer-BodyText{background-color:#161616 !important; color: gray !important}
 .PositionSticky{background-color: #161616 !important}
+
+.nw-c-nav__wide-secondary__title span{color: gray !important}
+.nw-c-nav__wide-section__title div{color: gray !important}
+.orb-nav-search form div{background-color: #161616 !important}
+.se-searchbox-app .se-searchbox__input__field{background-color:#161616 !important; color: white !important}
+.se-searchbox-app .se-searchbox__submit{background-color:#161616 !important; color: white !important}
+.se-episode-suggestion:hover{background-color: transparent !important}
+.search-content a{color: gray !important}
+ol.results li article footer dl dd{color: gray !important}
+.b-footer--transparent--dark-grey .orb-footer{background-color: #161616 !important; color: gray !important}
+.b-footer--transparent--dark-grey .orb-footer a{color: gray !important}
