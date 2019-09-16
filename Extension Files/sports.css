@@ -56,3 +56,9 @@
 .sp-c-date-picker-timeline__item-inner{background-color: #161616 !important; color: #161616 !important}
 .sp-c-date-picker-timeline__item{border-color: #181818 !important; background-color: #161616 !important}
 .no-touch .gel-trafalgar{color: gray !important}
+
+.no-touch .sp-c-sport-navigation__link{background-color:#181818 !important}
+.sp-c-sport-navigation--primary{background-color:#181818 !important}
+.primary-nav{background-color: #181818 !important}
+.global-header__logo{color:#909090 !important}
+.sp-c-global-header__logo{color:#909090 !important}
