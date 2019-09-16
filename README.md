@@ -80,4 +80,11 @@
   Darkened the BBC search footer.  
   Lightened the footer text for readability.  
   
+  **V2.7**  
+    
+  Darkened the BBC Sports navigation panel.  
+  Themed the surrounding navigation panel to be in parity with the primary, for future colour changes.  
+  Darkened the subnavigation panels which are present when browsing filtered categories.  
+  Implementation of a colour technique for darkening the BBC Sports text to combat the grayscale effect.  
+  Cleanup of past changelogs within the main repository.  
   
