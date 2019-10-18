@@ -32,3 +32,7 @@ div.hp-module__container.hp-module--light-theme{background-color: #161616 !impor
 ol.results li article footer dl dd{color: gray !important}
 .b-footer--transparent--dark-grey .orb-footer{background-color: #161616 !important; color: gray !important}
 .b-footer--transparent--dark-grey .orb-footer a{color: gray !important}
+
+/*weather*/
+.wr-enhanced .wr-forecast .wr-weather-type--day .wr-weather-type__icon{color: transparent !important}
+.ls-c-geolocation__label{display: none !important}
