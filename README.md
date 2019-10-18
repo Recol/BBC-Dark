@@ -88,3 +88,9 @@
   Implementation of a colour technique for darkening the BBC Sports text to combat the grayscale effect.  
   Cleanup of past changelogs within the main repository.  
   
+  **V2.8**  
+  
+  Improvements to BBC weather highlights.  
+  Removed the barrier which prevented clicking on the geolocation button on "Local News".  
+  Slight alteration to codified text.  
+    
