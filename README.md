@@ -98,3 +98,7 @@
     
   Corrected the BBC Sports navigation panel inverting hex colour codes.  
   
+  **V3.0** 
+  Fixed the primary navigation sector under BBC Sports not displaying correctly.  
+  Brought the Golf collection video colour in line with the rest.  
+  
