@@ -94,3 +94,7 @@
   Removed the barrier which prevented clicking on the geolocation button on "Local News".  
   Slight alteration to codified text.  
     
+  **V2.9**  
+    
+  Corrected the BBC Sports navigation panel inverting hex colour codes.  
+  
