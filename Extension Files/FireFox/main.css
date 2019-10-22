@@ -36,3 +36,9 @@ ol.results li article footer dl dd{color: gray !important}
 /*weather*/
 .wr-enhanced .wr-forecast .wr-weather-type--day .wr-weather-type__icon{color: transparent !important}
 .ls-c-geolocation__label{display: none !important}
+
+.story-body p{color: gray !important}
+:focus{outline: 0px !important}
+.nw-c-md-last-updated p{padding-top: 2px !important}
+.gs-o-table__link{color: white !important}
+.gs-o-button--secondary{color: gray !important}
