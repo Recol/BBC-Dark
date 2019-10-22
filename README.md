@@ -108,4 +108,5 @@
   Brought article text colours in line with article header colourisation.  
   Removed the blue outline colour which appeared when expanding menu buttons.  
   Implemented a border scheme for "Market Data" information to improve text legibility.  
-    
+  Lightened BBC Sports league table text for viewability.  
+  Lightened Score fixture arrow buttons.  
