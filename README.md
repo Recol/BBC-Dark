@@ -103,3 +103,9 @@
   Fixed the primary navigation sector under BBC Sports not displaying correctly.  
   Brought the Golf collection video colour in line with the rest.  
   
+  **V3.1**  
+    
+  Brought article text colours in line with article header colourisation.  
+  Removed the blue outline colour which appeared when expanding menu buttons.  
+  Implemented a border scheme for "Market Data" information to improve text legibility.  
+    
