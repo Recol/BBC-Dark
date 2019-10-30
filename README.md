@@ -110,3 +110,5 @@
   Implemented a border scheme for "Market Data" information to improve text legibility.  
   Lightened BBC Sports league table text for viewability.  
   Lightened Score fixture arrow buttons.  
+  Improved the Github repository file structure for future releases.  
+    
