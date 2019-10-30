@@ -7,7 +7,7 @@
 ![UserStyles Logo](https://userstyles.org/ui/images/stylish-logo-2-copy-2.svg)</a>    
 <a href="https://addons.mozilla.org/en-GB/firefox/addon/bbc-dark"> 
   
-  ![Firefox](https://i.imgur.com/QJn2uUD.png)</a>
+  ![Firefox](https://i.imgur.com/j7qsIEj.png)</a>
 <a href="https://addons.mozilla.org/en-GB/firefox/addon/bbc-dark"> </a>
 <p> </p>
 
