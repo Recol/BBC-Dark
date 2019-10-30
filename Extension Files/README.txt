@@ -1,1 +1,1 @@
-The source files containing CSS elements, and injection specific domain matches for Chrome.
+This contains the source files for their own respective platform.
