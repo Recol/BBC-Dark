@@ -15,7 +15,15 @@
   
 # Changelog
 
+  **V3.2**  
   
+  Improvements to legibility of unordered content.  
+  Improved contrast for content titles.  
+  Introduction of theming for the General Election 2019 "Constituencies" section.  
+  Fixed the bug-infested code implemented by the BBC for filtering by constituency letter.  
+  Implemented fixes for complete parity with code updates to the General Election coverage.  
+  Lightened the "You may be interested in" article recommendation text for legibility.  
+   
   **V3.1**  
     
   Brought article text colours in line with article header colourisation.  
