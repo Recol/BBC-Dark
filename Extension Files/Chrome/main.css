@@ -42,3 +42,12 @@ ol.results li article footer dl dd{color: gray !important}
 .nw-c-md-last-updated p{padding-top: 2px !important}
 .gs-o-table__link{color: white !important}
 .gs-o-button--secondary{color: gray !important}
+
+.story-body__list-item{color: gray !important}
+.group-title{color: gray !important}
+.news-vj-search-lookup__wrapper *{background-color: #161616 !important; color: gray !important}
+.az-item{background-color: #161616 !important; color:#1167a8 !important}
+.az-item__letter-link {background-color: #161616 !important; color:#1167a8 !important; border: #181818 !important}
+.az-item__letter-link:disabled, .az-item__letter-link.disabled{background-color: #161616 !important; color:#1167a8 !important}
+.az-table th{background-color: #161616 !important; color: gray !important}
+.story-body p strong{color: gray !important}
