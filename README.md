@@ -1,8 +1,8 @@
 
 # Downloads:  
 
-![Chrome Logo](https://i.imgur.com/JXBf0eC.png)</a>    
-<a href="https://userstyles.org/styles/164869/dark-bbc"> 
+![Chrome Logo](https://i.imgur.com/JXBf0eC.png    
+<a href="https://userstyles.org/styles/164869/dark-bbc"> </a>  
 
 ![UserStyles Logo](https://userstyles.org/ui/images/stylish-logo-2-copy-2.svg)</a>    
 <a href="https://addons.mozilla.org/en-GB/firefox/addon/bbc-dark"> 
