@@ -1,16 +1,15 @@
 
 # Downloads:  
 
-<a href="https://chrome.google.com/webstore/detail/bbc-dark/bdifipamjgmfefcpemmlppcmcdjndhig?hl=en-GB">   
-![Chrome Logo](https://i.imgur.com/JXBf0eC.png)
-</a>
 
-<a href="https://userstyles.org/styles/164869/dark-bbc"> 
-![UserStyles Logo](https://userstyles.org/ui/images/stylish-logo-2-copy-2.svg) 
-</a>
+[![Chrome Logo](https://i.imgur.com/JXBf0eC.png)](https://chrome.google.com/webstore/detail/bbc-dark/bdifipamjgmfefcpemmlppcmcdjndhig?hl=en-GB)
 
-<a href="https://addons.mozilla.org/en-GB/firefox/addon/bbc-dark">
-![Firefox](https://i.imgur.com/j7qsIEj.png)</a>
+
+[![UserStyles Logo](https://userstyles.org/ui/images/stylish-logo-2-copy-2.svg)](https://userstyles.org/styles/164869/dark-bbc)
+
+
+
+[![Firefox](https://i.imgur.com/j7qsIEj.png)](https://addons.mozilla.org/en-GB/firefox/addon/bbc-dark)
 <p> </p>
 
   
