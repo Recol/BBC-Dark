@@ -127,3 +127,8 @@ div.nw-c-nav__wide-overflow-list.gel-layout a.nw-o-link{background-color: #21212
 div.chart-container{color: white !important}
 div.scroll__text{color: white !important}
 .scroll__graphic{color: white !important}
+
+.bbc-news-vj-wrapper p{color: #161616 !important}
+#topos-component .nw-c-related-items__text{font-size: 15px !important}
+thead .jcVCQh.jcVCQh{border: 1px solid #161616 !important} /*used for the table located on the scottish budget*/
+.dFVjRg.dFVjRg{border: 1px solid #161616 !important}
