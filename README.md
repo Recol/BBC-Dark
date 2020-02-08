@@ -16,6 +16,13 @@
   
 # Changelog
 
+**V3.3**  
+  Fixed a regression in darker article content sections than the background.  
+  Improved font scaling for certain bold titles to fix text disappearing below a banner (especially on mobile).  
+  Fixed certain table borders appearing white, and changed to gray.  
+  Minor other corrections to platform dependencies.  
+  
+
   **V3.2**  
   
   Improvements to legibility of unordered content.  
