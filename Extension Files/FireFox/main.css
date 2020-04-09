@@ -51,3 +51,4 @@ ol.results li article footer dl dd{color: gray !important}
 .az-item__letter-link:disabled, .az-item__letter-link.disabled{background-color: #161616 !important; color:#1167a8 !important}
 .az-table th{background-color: #161616 !important; color: gray !important}
 .story-body p strong{color: gray !important}
+.lx-c-sticky__layout{display: table-column !important}
