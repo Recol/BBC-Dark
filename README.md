@@ -16,6 +16,10 @@
   
 # Changelog
 
+**V3.4**  
+Patched the problem of live coverage displaying a black banner over text when scrolling.  
+  
+
 **V3.3**  
   Fixed a regression in darker article content sections than the background.  
   Improved font scaling for certain bold titles to fix text disappearing below a banner (especially on mobile).  
