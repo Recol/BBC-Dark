@@ -16,8 +16,16 @@
   
 # Changelog
 
+**V3.5**  
+  Made considerable improvements to the BBC menu bar for colour consistency.  
+  Tightened some sub-resource allocated colours to bring them into line with each other.
+  Numerous improvements to the "More" submenus involving colour accuracy.  
+  Fixed some colour mismatch bugs.  
+  General all round polishing, enjoy 2021.  
+  
+
 **V3.4**  
-Patched the problem of live coverage displaying a black banner over text when scrolling.  
+  Patched the problem of live coverage displaying a black banner over text when scrolling.  
   
 
 **V3.3**  
