@@ -127,3 +127,15 @@ div.nw-c-nav__wide-overflow-list.gel-layout a.nw-o-link{background-color: #21212
 div.chart-container{color: white !important}
 div.scroll__text{color: white !important}
 .scroll__graphic{color: white !important}
+.bbc-news-vj-wrapper p{color: #161616 !important}
+#topos-component .nw-c-related-items__text{font-size: 15px !important}
+thead .jcVCQh.jcVCQh{border: 1px solid #161616 !important} /*used for the table located on the scottish budget*/
+.dFVjRg.dFVjRg{border: 1px solid #161616 !important}
+.lx-c-sticky__layout{display: table-column !important}
+
+.nw-c-nav__wide-secondary__title span {color:transparent !important}
+.gel-long-primer gs-u-ph{background-color: #212121 !important}
+html.b-reith-sans-loaded .nw-c-nav__secondary-sections{background: transparent !important}
+html.b-reith-sans-loaded .nw-c-nav__secondary-sections .nw-c-nav__secondary-menuitem-container a {background-color: #161616 !important}
+.nw-c-nav__secondary-morebutton.nw-c-nav__secondary-morebutton__open{background-color:#161616 !important; border-bottom: 8px solid transparent !important}
+.nw-c-nav__secondary-menuitem-container a{background: #1e1e1e !important}
