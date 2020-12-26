@@ -119,8 +119,8 @@ textarea.cmts-post-box{background-color: #181818 !important}
 .nw-c-local__cold-start .nw-c-local__heading-title{color: gray !important}
 .nw-c-local__news-controller-container .ls-c-search__input{color: gray !important}
 .wr-c-decorative-map .wr-c-map-background img{background-color: gray !important} /* bbc weather exemption*/
-div.nw-c-nav__wide-overflow-list.gel-layout{background-color:#212121 !important} 
-div.nw-c-nav__wide-overflow-list.gel-layout a.nw-o-link{background-color: #212121 !important}
+div.nw-c-nav__wide-overflow-list.gel-layout{background-color:transparent !important} 
+div.nw-c-nav__wide-overflow-list.gel-layout a.nw-o-link{background-color: #1e1e1e !important}
 .nw-c-nav__wide-overflow .nw-c-nav__wide-menuitem-container span{background-color: #212121 !important}
 .dove-item{background-color: #161616 !important}
 
@@ -132,3 +132,10 @@ div.scroll__text{color: white !important}
 #topos-component .nw-c-related-items__text{font-size: 15px !important}
 thead .jcVCQh.jcVCQh{border: 1px solid #161616 !important} /*used for the table located on the scottish budget*/
 .dFVjRg.dFVjRg{border: 1px solid #161616 !important}
+
+.nw-c-nav__wide-secondary__title span {color:transparent !important}
+.gel-long-primer gs-u-ph{background-color: #212121 !important}
+html.b-reith-sans-loaded .nw-c-nav__secondary-sections{background: transparent !important}
+html.b-reith-sans-loaded .nw-c-nav__secondary-sections .nw-c-nav__secondary-menuitem-container a {background-color: #161616 !important}
+.nw-c-nav__secondary-morebutton.nw-c-nav__secondary-morebutton__open{background-color:#161616 !important; border-bottom: 8px solid transparent !important}
+.nw-c-nav__secondary-menuitem-container a{background: #1e1e1e !important}
