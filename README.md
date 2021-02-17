@@ -16,6 +16,9 @@
   
 # Changelog
 
+**V3.6**  
+  Updated to support manifest version 3.
+
 **V3.5**  
   Made considerable improvements to the BBC menu bar for colour consistency.  
   Tightened some sub-resource allocated colours to bring them into line with each other.
