@@ -1,7 +1,7 @@
 {
 	"name": "BBC Dark",
-	"version": "3.5",
-	"manifest_version": 2,
+	"version": "4.0",
+	"manifest_version": 3,
 	"description": "Used to darken the look of the BBC website.",
 	"short_name": "BBC Dark",
 	"author": "Deco",
