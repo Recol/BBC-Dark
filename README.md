@@ -16,6 +16,15 @@
   
 # Changelog
 
+**V4.0**  
+Design overhaul to the base structure of the extension.  
+Implementation of the SSRCSS BBC codebase for improved compatibility.  
+Fixed issues with articles appearing blank.  
+Overhauled legacy colour schemes to improve the legibility of articles.  
+Brought Firefox up to date.  
+Fixed teething issues with titles not being light.  
+Improved the legibility of article links to make them more readable.  
+  
 **V3.6**  
   Updated to support manifest version 3.
 
