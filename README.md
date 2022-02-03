@@ -16,14 +16,22 @@
   
 # Changelog
 
+ **V4.1**  
+  Patched in support for allowing the BBC homepage to be correctly dark again.  
+  Implemented missing elements that were ported over for articles not appearing dark.  
+  Lightened text on the homepage to increase legibility.  
+  Fixed incorrect banner element assignments causing text to appear strange.  
+  Patched in some other arbitrary missing elements pertaining to bottom columns to allow them to be dark again.  
+
+
 **V4.0**  
-Design overhaul to the base structure of the extension.  
-Implementation of the SSRCSS BBC codebase for improved compatibility.  
-Fixed issues with articles appearing blank.  
-Overhauled legacy colour schemes to improve the legibility of articles.  
-Brought Firefox up to date.  
-Fixed teething issues with titles not being light.  
-Improved the legibility of article links to make them more readable.  
+  Design overhaul to the base structure of the extension.  
+  Implementation of the SSRCSS BBC codebase for improved compatibility.  
+  Fixed issues with articles appearing blank.  
+  Overhauled legacy colour schemes to improve the legibility of articles.  
+  Brought Firefox up to date.  
+  Fixed teething issues with titles not being light.  
+  Improved the legibility of article links to make them more readable.  
   
 **V3.6**  
   Updated to support manifest version 3.
