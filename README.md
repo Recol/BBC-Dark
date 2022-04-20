@@ -16,6 +16,28 @@
   
 # Changelog
 
+ **V5.0** - Major Code Revisions  
+ Changed over out of date code which was causing issues with page compatibility.  
+ Refactored and fixed support for the main BBC homepage.  
+ Fixed articles not appearing dark within BBC News.  
+ Fixed toolbar conflicts between various BBC pages.  
+ Implemented support for BBC Food articles.  
+ Fixed live coverage having the media player disappear at the top of the article.  
+ Implemented support for BBC Sounds (request by Alex Martini).  
+ Fixed hyperlinks not being readable within articles.  
+ Removed conflicting legacy code to allow promo images to correctly display their images.  
+ Implemented support for BBC Sports pages.  
+ Fixes to padding issues causing lines to conflict with header titles.  
+ Lightened and fixed article headers not being readable.  
+ Fixed support for the BBC IPlayer bottom section not being dark.  
+ Fixed promo images on the BBC homepage not being dark.  
+ Fixed submenu issues with links appearing white when they are hovered over.  
+ Fixed further compatibility with the BBC migrating to the SRCSS scheme.  
+ Fixed containers not appearing dark when they should.  
+ Some minor code removals where no longer necessary.  
+ 
+ Minor personal note on this release: thank you for your patience, rebuilding support has taken slightly longer than I had anticipated.  
+
  **V4.1**  
   Patched in support for allowing the BBC homepage to be correctly dark again.  
   Implemented missing elements that were ported over for articles not appearing dark.  
