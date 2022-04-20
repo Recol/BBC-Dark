@@ -17,6 +17,7 @@
 # Changelog
 
  **V5.0** - Major Code Revisions  
+   
  Changed over out of date code which was causing issues with page compatibility.  
  Refactored and fixed support for the main BBC homepage.  
  Fixed articles not appearing dark within BBC News.  
