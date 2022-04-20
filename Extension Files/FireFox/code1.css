@@ -47,7 +47,7 @@ a.faux-block-link__overlay-link{background-color:#161616 !important}
 .pigeon__column--a:before{border-left: #181818 !important}
 .pigeon__column--b .pigeon-item+.pigeon-item{border-top: #181818 !important}
 .gs-u-display-block{background:#212121 !important} /* Note to improve script targetting later on, to count for clipping on navigation bar.*/
-.gs-u-box-size, .gs-u-box-size *{background-color:#161616 !important}
+.gs-u-box-size, .gs-u-box-size *{background-color:transparent !important}
 .nw-c-nav__secondary-sections /*Navigation bar*/ {background-color: #181818 !important}
 /*Base Politics code is clashing with main navigation page promotional background colours.*/
 .markets-index-promo{background-color: #161616 !important}
@@ -119,19 +119,19 @@ textarea.cmts-post-box{background-color: #181818 !important}
 .nw-c-local__cold-start .nw-c-local__heading-title{color: gray !important}
 .nw-c-local__news-controller-container .ls-c-search__input{color: gray !important}
 .wr-c-decorative-map .wr-c-map-background img{background-color: gray !important} /* bbc weather exemption*/
-div.nw-c-nav__wide-overflow-list.gel-layout{background-color:#212121 !important} 
-div.nw-c-nav__wide-overflow-list.gel-layout a.nw-o-link{background-color: #212121 !important}
+div.nw-c-nav__wide-overflow-list.gel-layout{background-color:transparent !important} 
+div.nw-c-nav__wide-overflow-list.gel-layout a.nw-o-link{background-color: #1e1e1e !important}
 .nw-c-nav__wide-overflow .nw-c-nav__wide-menuitem-container span{background-color: #212121 !important}
 .dove-item{background-color: #161616 !important}
 
 div.chart-container{color: white !important}
 div.scroll__text{color: white !important}
 .scroll__graphic{color: white !important}
+
 .bbc-news-vj-wrapper p{color: #161616 !important}
 #topos-component .nw-c-related-items__text{font-size: 15px !important}
 thead .jcVCQh.jcVCQh{border: 1px solid #161616 !important} /*used for the table located on the scottish budget*/
 .dFVjRg.dFVjRg{border: 1px solid #161616 !important}
-.lx-c-sticky__layout{display: table-column !important}
 
 .nw-c-nav__wide-secondary__title span {color:transparent !important}
 .gel-long-primer gs-u-ph{background-color: #212121 !important}
@@ -139,3 +139,27 @@ html.b-reith-sans-loaded .nw-c-nav__secondary-sections{background: transparent !
 html.b-reith-sans-loaded .nw-c-nav__secondary-sections .nw-c-nav__secondary-menuitem-container a {background-color: #161616 !important}
 .nw-c-nav__secondary-morebutton.nw-c-nav__secondary-morebutton__open{background-color:#161616 !important; border-bottom: 8px solid transparent !important}
 .nw-c-nav__secondary-menuitem-container a{background: #1e1e1e !important}
+
+.ssrcss-m24u36-MenuContainer-SecondaryNavBarContainer{background-color: #161616 !important}
+.ssrcss-15xko80-StyledHeading{color: white !important}
+.ssrcss-m24u36-MenuContainer-SecondaryNavBarContainer .e14xdrat1{background-color: #161616 !important; color: white !important}
+.ssrcss-12oaa2e-StyledLink{color: white !important} /* second nav bar text element */
+.ssrcss-m24u36-MenuContainer-SecondaryNavBarContainer .e14xdrat1{color: white !important}
+.ssrcss-ojmjjh-StyledLink{color: white !important}
+.ssrcss-156x968-StyledLink{color: gray !important}
+.ssrcss-kitko5-MetadataStrip{color: gray !important}
+.ssrcss-name08-StyledFigureCaption{color: gray !important}
+.ssrcss-1gfaiii-InlineLink:link{color: gray !important} /* Override SRCSS links globally to fix them all.*/
+.ssrcss-y2fd7s-StyledHeading{color: gray !important}
+.ssrcss-axlwsg-StyledHeading{color: gray !important}
+.ssrcss-ezh9qc-Promo{background: #161616 !important}
+.ssrcss-14n3cy5-PromoLink{color: gray !important} /* Promo text element*/
+.ssrcss-1fhew4x-Container{background: #161616 !important}
+.ssrcss-1r412x1-Headline:link{color: gray !important}
+.ssrcss-pv1rh6-ArticleWrapper{color: gray !important}
+.ssrcss-c94fr3-Contributor strong{color: gray !important}
+.ssrcss-c94fr3-Contributor{color: gray !important}
+.ssrcss-1hw2sw-MenuListContainer{background-color: transparent !important; color: #adadad !important}
+.ssrcss-s5hlxv-StyledLink{color: white !important}
+.ssrcss-s5hlxv-StyledLink:hover, .ssrcss-s5hlxv-StyledLink:focus{background-color: gray !important}
+.ssrcss-1oeaxtw-StyledToggle{background-color: #161616 !important; color: white !important}
