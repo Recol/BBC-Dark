@@ -16,7 +16,6 @@ div.hp-module__container.hp-module--light-theme{background-color: #161616 !impor
 .nav-detail .level-2 h2{color: gray !important}
 .ff .nav-detail .level-3 a{background-color: #161616 !important; color: gray !important}
 .page-title{color: gray !important}
-.nav-detail .level-2:before{display: none !important}
 
 .Theme-Section-Light{background-color:#161616 !important}
 .Theme-Layer-BodyText{background-color:#161616 !important; color: gray !important}
@@ -76,7 +75,6 @@ div.party-labels{color: gray !important}
 .ssrcss-1flqofb-ToggleContainer .ekfn8591:hover{background-color: #161616 !important; color: #adadad !important}
 .ssrcss-1flqofb-ToggleContainer{background-color: #161616 !important; color: #adadad !important}
 .ssrcss-19rkgf0-ToggleContainer .ekfn8591:hover{background-color: #161616 !important; color: #adadad !important}
-.ssrcss-1hw2sw-MenuListContainer{background-color: #161616 !important; color: #adadad !important}
 .ssrcss-1gc2tn4-MenuContainer-MoreMenuWrapper{background-color: #161616 !important; color: #adadad !important}
 .ssrcss-qobvev-StyledLink{color: #adadad !important}
 .ssrcss-1nc19y4-StyledLink{color: #adadad !important}
@@ -100,7 +98,7 @@ div.party-labels{color: gray !important}
 div.methodology__container{background: #161616 !important; color: #adadad !important}
 .bbc-news-vj-wrapper .methodology__container{background-color: #161616 !important}
 .ssrcss-17vmgpw-PrimaryListContainer .e14xdrat1 .eis6szr3:not(:last-of-type) .eis6szr2 .eis6szr1{color: white !important}
-.ssrcss-1yycgk3-LinkTextContainer{color:white !important}
+.ssrcss-1yycgk3-LinkTextContainer{color:black !important}
 .ssrcss-150dx44-MenuContainer-SecondaryNavBarContainer .e14xdrat1 .eis6szr3:not(:last-of-type) .eis6szr2 .eis6szr1:only-child{color:white !important}
 .ssrcss-1gr85n1-LinkTextContainer{color: white !important}
 .ssrcss-coo60e-StyledMenuList{background-color: transparent !important}
@@ -131,3 +129,42 @@ div.methodology__container{background: #161616 !important; color: #adadad !impor
 .ssrcss-q500bc-StyledHeading{color: #adadad !important}
 .ssrcss-14gysa0-InlineLink:link{color: #adadad !important}
 .ssrcss-1o81qis-PromoLink:link{color: #adadad !important}
+.ssrcss-7uxr49-RichTextContainer{color: white !important}
+
+.ssrcss-zumk3p-Container{background-color: #161616 !important} /*Main page*/
+.ssrcss-15o5y3p-Promo{background: #161616 !important}
+.ssrcss-6v3a02-PromoLink:link{color: gray !important}
+.ssrcss-15o5y3p-Promo{color: gray !important}
+.ssrcss-i63966-PromoLink:link{color: gray !important}
+.ssrcss-6arcww-PromoHeadline{color: gray !important}
+.ssrcss-1jv2lc5-MastheadText{color: white !important}
+.ssrcss-1kdbbjr-Masthead{background: #161616 !important; color: white !important}
+.ssrcss-i3uc82-Container{background-color: #161616 !important}
+.ssrcss-10ovu6t-StyledLink{color: gray !important}
+.ssrcss-kkhr3v-StyledLink{background-color: #161616 !important}
+
+.food-content-wrapper{background-color: #161616 !important; color: gray !important} /*Food page */
+.searchbar__input{background-color: #161616 !important; color: white !important; border: 1px solid #161616 !important}
+.main-menu--full-width .main-menu__item--active .main-menu__secondary-nav__bg{background-color: rgba(0,0,0,.5) !important}
+.main-menu__item--active{background: transparent !important; color: gray !important}
+.promo-hero>.gel-layout>.gel-layout__item{background-color: #161616 !important}
+.tab-bar__tab{color: gray !important}
+.promo{background-color: #161616 !important}
+.promo__title{color: gray !important}
+
+.ssrcss-p44stw-Container{background-color: #161616 !important} /* BBC Sports Page */
+.ssrcss-qrpiep-MainNavBarContainer{color: gray !important}
+.story-body__external-link, .story-body__internal-link{color: gray !important}
+.story-body__media__caption--image{background-color: #121212 !important; color: white !important}
+.comments .comments__back-to-top-link{color: white !important}
+.view-comments-button{background-color: #161616 !important; color: white !important}
+.ssrcss-1s1lh4g-Container{background-color: #161616 !important}
+.b-footer--white--dark-grey .orb-footer{background-color: #161616 !important; color: white !important}
+.b-footer--white--dark-grey #navp-orb-footer-promo .orb-footer-lead{color: white !important}
+.b-footer--white--dark-grey .orb-footer a{color: white !important}
+#navp-orb-footer-promo .navp-item .item{background-color: #161616 !important}
+.b-footer--white--dark-grey #navp-orb-footer-promo .navp-item h3{color: white !important}
+
+.nw-o-keyline0\@m:after{border-bottom: 0px solid #121212 !important}
+.nw-c-slice-heading{padding-top: 18px !important}
+.nw-o-keyline\+\@m:after{border-bottom: 0px !important}
