@@ -16,6 +16,21 @@
   
 # Changelog
 
+ **V5.1** - 2023 Update  
+ 
+ Fixes to the navigation column to theme it dark correctly.  
+ Updated the menu selector to correctly be dark.  
+ Fixes to the top header appearing white.  
+ Changes to icon colours to make them gray.  
+ Text fix inconsistencies on the menu selector appearing dark instead of white.  
+ Lightened the BBC header links on the top menu bar to appear gray to improve readability.  
+ Fixes to the "Search the BBC" main background and search box appearing not dark.  
+ Promo links on articles have now been fixed to correctly be dark.  
+ Darkened the notification area.  
+ Hyperlink fixes being dark in articles.  
+ Removal of depreciated BBC subdomains.  
+ Fixes to bright white flashes when transitioning between pages.  
+
  **V5.0** - Major Code Revisions  
    
  Changed over out of date code which was causing issues with page compatibility.  
