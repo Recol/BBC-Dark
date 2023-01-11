@@ -1,6 +1,6 @@
 {
 	"name": "BBC Dark",
-	"version": "5.1",
+	"version": "5.2",
 	"manifest_version": 3,
 	"description": "Used to darken the look of the BBC website.",
 	"short_name": "BBC Dark",
@@ -11,7 +11,7 @@
 		"256": "icon2.png"
 
 	},
-
+	
 
 	"content_scripts":[{
 		"matches": [
@@ -29,7 +29,13 @@
 ],
 		"css": ["code1.css", "sports.css", "main.css"]
 		
-	}]
+	}],
 	 
-	
+
+"browser_specific_settings": {
+  "gecko": {
+    "id": "{153b2d6d-206a-43ac-9c53-afb2f4d6ea2d}",
+    "strict_min_version": "109.0"
+  }
+}	
 }

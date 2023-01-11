@@ -16,6 +16,21 @@
   
 # Changelog
 
+ **V5.2** - 2023 #1 Update  
+ 
+ Fixes to the top 10 articles not appearing dark on the sidebar.  
+ Improvements to buttons to ensure they are readable.  
+ Fixes to the top menu bar to ensure they are consistent across pages.  
+ Improvements to black headers to make them readable.  
+ Changes to the top header to make them gray consistently between pages.  
+ Darkened the orbit area which is expandable on the BBC News page.  
+ Fixes to BBC Weather with the expandable menu appearing transparent.  
+ Removal of conflicting code to fix appearances on the front page.  
+ Cleanup of artifact code for minor optimisations between colour elements.  
+ Reformatting of structured CSS files to improve readability.  
+ Theming to metadata code to improve the legibility of article contents.  
+ Upgrade Firefox to Manifest V3.  
+ 
  **V5.1** - 2023 Update  
  
  Fixes to the navigation column to theme it dark correctly.  
