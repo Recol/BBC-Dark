@@ -1,11 +1,11 @@
 {
 	"name": "BBC Dark",
-	"version": "5.2",
+	"version": "5.3",
 	"manifest_version": 3,
 	"description": "Used to darken the look of the BBC website.",
 	"short_name": "BBC Dark",
 	"author": "Deco",
-	"version_name": "Version 5.1 - 2023 updates",
+	"version_name": "Version 5.3 - New icon",
 
 	"icons": {
 		"128": "icon3.png",

@@ -16,6 +16,10 @@
   
 # Changelog
 
+**V5.3** - Icon Redesign  
+  
+Redesigned the old outdated icon for BBC Dark. 
+
  **V5.2** - 2023 #1 Update  
  
  Fixes to the top 10 articles not appearing dark on the sidebar.  
