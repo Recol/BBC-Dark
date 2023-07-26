@@ -17,6 +17,7 @@
 # Changelog
 
 **V5.5** - 2023 #2 Fix Everything Update
+
 Fixes to promotional badges on the main page appearing white.  
 Fixes to article buttons appearing white.  
 Improvements to live coverage elements appearing white.  
