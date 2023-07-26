@@ -669,4 +669,57 @@ border-bottom:0!important
 .ssrcss-1gy2t8e-Promo{
 background: #161616 !important}
 
+
 .ssrcss-1if1g9v-MetadataText{color: #fff !important}
+
+.ssrcss-zx1e83-StyledMenuList{
+background-color: #161616 !important; }
+
+
+/* Make the commentary background black, bypasses !important flag.. */
+.lx-commentary__header--content{
+    background-color: #161616 !important;
+}
+
+.lx-commentary__stream{
+    background-color: #161616 !important;
+}
+
+.ssrcss-1if1g9v-MetadataText{color: #fff !important}
+
+.lx-card-format .lx-page .lx-o-panel-is-commentary{background: #161616 !important;}
+
+.ssrcss-10zzkwt-PromoContent{background-color: #181818 !important;}
+.ssrcss-1xwg888-Container{background-color: #161616 !important;}
+/* Around the UK section element header */
+.ssrcss-q9ejh4-StyledLink{color: gray !important;}
+
+.ssrcss-nt2pp1-PromoLink{background-color: #181818 !important; color: gray !important;}
+.ssrcss-zhotoo-PromoCompact{background-color: #181818 !important; color: gray !important;}
+.ssrcss-h10ero-Promo{background: #181818 !important; color: gray !important;}
+.ssrcss-w6az1r-StyledLink{background: #181818 !important; color: gray !important;}
+.ssrcss-he2hju-StyledPanelContent{background-color: #161616 !important; color: gray !important}
+.ssrcss-18h2t1m-StyledLink{color: white !important;}
+
+/* BBC Share page */
+.ise-l-body{background-color: #161616 !important; color: gray !important;}
+.doGyhE .ipagesHero-title{color: gray !important;}
+.jtshUK .ipagesSideNav-content{background-color: #181818 !important; color: gray !important;}
+.bGCkMx .ipagesSideNav-content{background-color: #181818 !important; color: gray !important;}
+a.sc-gueYoa:link{color: gray !important;}
+.bGCkMx .ipagesSideNav-title{color: gray !important;}
+.jtshUK .ipagesSideNav-title{color: gray !important;}
+.kfLLDP .secondaryTheme{background-color: #161616 !important; color: gray !important;}
+.kfLLDP a{color: gray !important;}
+h2.sc-gueYoa{color: gray !important;}
+p.egwCio a:link{color: gray !important;}
+h3.sc-gueYoa{color: whitesmoke !important;}
+
+.ssrcss-tvuym4-NavigationLink-SearchLink{background: #181818 !important; color: white}
+.ssrcss-1jvb50f-MenuContainer-SecondaryNavBarContainer{background-color: inherit !important;}
+
+.ssrcss-68pt20-Text-TextContributorName{color: whitesmoke !important;}
+.sp-c-sport-navigation--secondary{background-color: inherit !important; color: gray !important;}
+.ssrcss-1f8q3rz-Container{background-color: #161616 !important; color: gray !important;}
+
+.orbit-header-container .orbit-more-drawer.orbit-default.orbit-domestic-yes ul a{color: gray !important;}

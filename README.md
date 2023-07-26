@@ -16,9 +16,26 @@
   
 # Changelog
 
+**V5.5** - 2023 #2 Fix Everything Update
+Fixes to promotional badges on the main page appearing white.  
+Fixes to article buttons appearing white.  
+Improvements to live coverage elements appearing white.  
+Darkened the "Around the UK" and "Sports coverage" sections on the homepage.  
+Fixed the submenu bar on articles not appearing dark.  
+Fixes to the right sidebar of the top stories not being darkened.  
+Fixes to the "Related Topics" buttons not appearing dark.  
+Inclusion of the "Using the BBC" page for theming.  
+Cleanup of minor article elements appearing black.  
+Darkened the share button submenu.  
+Fixes to some secondary navigation bars nto appearing dark.  
+Fixes for the BBC Sports navigation bar appearing slightly out of line.  
+Added support for the Boxing section underneath BBC Sports.  
+Sweeps to fix some drawers appearing unreadable for their text.  
+
 **V5.3** - Icon Redesign  
   
 Redesigned the old outdated icon for BBC Dark. 
+
 
  **V5.2** - 2023 #1 Update  
  
