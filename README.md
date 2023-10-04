@@ -16,6 +16,20 @@
   
 # Changelog
 
+**V5.6** - 2023 #3 Update
+BBC News:  
+  Fixes to the global navigation bar appearing white.  
+  Fixes to the global navigation text appearing black.  
+  Updates to the promotion banners on articles to return them to a dark state.    
+  Text clarity improvements between dark and gray.  
+  Fixes to topic article buttons not being dark.  
+  
+BBC homepage:
+  Improvements to the BBC homepage promotion articles not appearing dark.  
+
+BBC Sports:
+  Minor fix for body text being too dark.  
+
 **V5.5** - 2023 #2 Fix Everything Update
 
 Fixes to promotional badges on the main page appearing white.  
