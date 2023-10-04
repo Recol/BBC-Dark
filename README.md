@@ -25,12 +25,12 @@ BBC News:
   Text clarity improvements between dark and gray.  
   Fixes to topic article buttons not being dark.  
   
-BBC homepage:
+BBC homepage:  
   Improvements to the BBC homepage promotion articles not appearing dark.  
 
-BBC Sports:
+BBC Sports:  
   Minor fix for body text being too dark.  
-
+  
 **V5.5** - 2023 #2 Fix Everything Update
 
 Fixes to promotional badges on the main page appearing white.  
