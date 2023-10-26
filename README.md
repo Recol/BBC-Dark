@@ -5,7 +5,7 @@
 [![Chrome Logo](https://i.imgur.com/JXBf0eC.png)](https://chrome.google.com/webstore/detail/bbc-dark/bdifipamjgmfefcpemmlppcmcdjndhig?hl=en-GB)
 
 
-[![UserStyles Logo](https://svgshare.com/s/z1g)](https://userstyles.org/styles/164869/dark-bbc)
+[![UserStyles Logo](https://svgshare.com/i/z1g.svg)](https://userstyles.org/styles/164869/dark-bbc)
 
 
 
