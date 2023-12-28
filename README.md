@@ -16,6 +16,35 @@
   
 # Changelog
 
+**V5.7** - 2023 New Year Update  
+  
+BBC Homepage:  
+  Fixes to the dark search bar appearing white.  
+  Fixes to sections not being darkened correctly.  
+  Improvements to the "Play" icon appearing white.  
+  Corrections to the National Lottery results button appearing white.  
+  Darkened the BBC search button to be consistent with the rest of the theme.  
+  Corrections to the "Home" section button appearing too dark.  
+  
+BBC News:  
+  Fixes to dynamic articles on the BBC News page being white.  
+  Fixes to the secondary navigation bar outlines being white in articles.  
+  Removal of white borders from the "Read more" button on article lists.  
+  Fixes to the "Follow" button text being dark.  
+  Fixes to subarticle section backgrounds being white. 
+  Minor fixes to URL link colours not being gray.  
+  Improvements to the weather section for theming.  
+  Restoration to dark for the "More" subsection.  
+  
+BBC Weather:  
+  Fixes to the forecast subsection appearing white.  
+  Fixes to the "Settings" section to be dark.  
+  Improvements to the "More Weather" subsection text not being readable.  
+  Improvements to the Information section not being dark.  
+  Darkening to the "Best of the BBC" title section.  
+  
+Happy New Year and enjoy 2024! :)  
+  
 **V5.6** - 2023 #3 Update  
   
 BBC News:  
