@@ -16,6 +16,34 @@
   
 # Changelog
 
+**V6.0** - 2024 Restoration Support  
+  
+BBC Homepage:  
+  Restoration of compatibility with the new theme code.  
+  Restructuring of titles to be more readable, especially the highlighted ones.  
+  Reorganisation of some URL links to be more readable than before.  
+  
+BBC News:  
+  Restoration of compatiblity with the new theme code to correctly darken articles and the BBC News homepage.  
+  Fixes for some text not being readable on articles.  
+  General improvements to the submenu selection bar appearing white.  
+  Minor fixes to some button text being unreadable.  
+  
+BBC Sports:  
+  Fixes to URL text being unreadable on articles.  
+  Fixes to the side panel article list being unreadable.  
+  Fixes to some buttons not being dark on articles.  
+  
+BBC Sounds:
+  Restoration of compatibility, similar to before.  
+  Minor fixes to heading titles.
+  
+Miscelleanous:  
+  Introduced support to the "For You" BBC page to be dark.  
+  Various other fixes to restore broad compatibility across the site where necessary.  
+  Some global fixes for code conflicts.  
+  Themed the "Take the survey" button which sometimes appears on pages.  
+  
 **V5.7** - 2023 New Year Update  
   
 BBC Homepage:  
