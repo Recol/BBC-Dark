@@ -15,7 +15,12 @@
   
   
 # Changelog
-
+  
+**V6.1** - BBC News bug fix  
+  
+BBC News:  
+  Bug fix related to category titles not appearing dark.  
+  
 **V6.0** - 2024 Restoration Support  
   
 BBC Homepage:  
@@ -26,7 +31,7 @@ BBC Homepage:
 BBC News:  
   Restoration of compatiblity with the new theme code to correctly darken articles and the BBC News homepage.  
   Fixes for some text not being readable on articles.  
-  General improvements to the submenu selection bar appearing white.  
+  General improvements to the submenu selection bar appearing white.    
   Minor fixes to some button text being unreadable.  
   
 BBC Sports:  
@@ -34,9 +39,9 @@ BBC Sports:
   Fixes to the side panel article list being unreadable.  
   Fixes to some buttons not being dark on articles.  
   
-BBC Sounds:
+BBC Sounds:  
   Restoration of compatibility, similar to before.  
-  Minor fixes to heading titles.
+  Minor fixes to heading titles.  
   
 Miscelleanous:  
   Introduced support to the "For You" BBC page to be dark.  
