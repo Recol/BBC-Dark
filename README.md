@@ -16,6 +16,13 @@
   
 # Changelog
   
+**V6.2** - 2024 Update #2  
+  
+BBC News:  
+  Fixes to the top navigation bar to restore them to being dark.  
+  Minor fixes to URL's appearing black and not gray on articles.  
+  
+  
 **V6.1** - BBC News bug fix  
   
 BBC News:  
