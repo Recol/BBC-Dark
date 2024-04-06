@@ -15,7 +15,26 @@
   
   
 # Changelog
+
+**V6.3** - 2024 BBC Weather Update  
   
+BBC Weather:  
+  Fixes to article sections to correct side promotional articles not being correctly dark.  
+  Fixes to subheading on articles being unreadable.  
+  Corrections to URL articles being unreadable.  
+  Bug fixes to the "Forecast for the UK" section to be correctly dark.  
+  Theming of the "More Weather" section.  
+  General tidyups where necessary.  
+  Fixes to the settings section located underneath the Warnings page to be dark.  
+  Introduction of theming for the Weather slider subsection, buttons and forecast menu.  
+  Theming of the "Weather key" section on BBC Weather.  
+  
+  BBC News:  
+  Minor fixes to article headings being dark rather than gray.  
+  Fixes to some article sub-links being dark rather than gray.  
+  Minor corrections to some video titles being dark aswell.  
+  Improvements to timestamp dates above articles being slightly too dark for better clarity.  
+   
 **V6.2** - 2024 Update #2  
   
 BBC News:  
