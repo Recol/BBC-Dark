@@ -1,7 +1,7 @@
 
 # Downloads:  
 
-<u>## Chrome</u>  
+## <u> Chrome</u>  
 [![Chrome Logo](https://i.imgur.com/JXBf0eC.png)](https://chrome.google.com/webstore/detail/bbc-dark/bdifipamjgmfefcpemmlppcmcdjndhig?hl=en-GB)  
   
 </u>## UserStyles</u>  
