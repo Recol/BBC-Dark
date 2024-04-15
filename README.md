@@ -3,7 +3,7 @@
 
 | Browser        | Download |
 |:--------------:|:--------:|
-| **Chrome**     | [![Chrome Logo](https://p7.hiclipart.com/preview/1001/808/60/google-chrome-app-web-browser-icon-google-chrome-logo-png.jpg)](https://chrome.google.com/webstore/detail/bbc-dark/bdifipamjgmfefcpemmlppcmcdjndhig?hl=en-GB) |
+| **Chrome**     | [![Chrome Logo](https://upload.wikimedia.org/wikipedia/commons/8/87/Google_Chrome_icon_%282011%29.png)](https://chrome.google.com/webstore/detail/bbc-dark/bdifipamjgmfefcpemmlppcmcdjndhig?hl=en-GB) |
 | **UserStyles** | [![UserStyles Logo](https://svgshare.com/i/z1g.svg)](https://userstyles.org/styles/164869/dark-bbc) |
 | **Edge**       | [![Edge Logo](https://static-00.iconduck.com/assets.00/microsoft-edge-icon-256x256-eloac7cx.png)](https://microsoftedge.microsoft.com/addons/detail/bbc-dark/mngemmbfoeboghpnekdpjpgbpeiibelm) |
 | **Firefox**    | [![Firefox](https://i.imgur.com/j7qsIEj.png)](https://addons.mozilla.org/en-GB/firefox/addon/bbc-dark) |
