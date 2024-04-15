@@ -1,15 +1,16 @@
 
 # Downloads:  
 
+### Chrome  
+[![Chrome Logo](https://i.imgur.com/JXBf0eC.png)](https://chrome.google.com/webstore/detail/bbc-dark/bdifipamjgmfefcpemmlppcmcdjndhig?hl=en-GB)  
+  
+### UserStyles  
+[![UserStyles Logo](https://svgshare.com/i/z1g.svg)](https://userstyles.org/styles/164869/dark-bbc)  
 
-[![Chrome Logo](https://i.imgur.com/JXBf0eC.png)](https://chrome.google.com/webstore/detail/bbc-dark/bdifipamjgmfefcpemmlppcmcdjndhig?hl=en-GB)
-
-
-[![UserStyles Logo](https://svgshare.com/i/z1g.svg)](https://userstyles.org/styles/164869/dark-bbc)
-
-
-
-[![Firefox](https://i.imgur.com/j7qsIEj.png)](https://addons.mozilla.org/en-GB/firefox/addon/bbc-dark)
+### Edge  
+[![Edge Logo](https://w7.pngwing.com/pngs/750/511/png-transparent-microsoft-edge-hd-logo-thumbnail.png)](https://microsoftedge.microsoft.com/addons/detail/bbc-dark/mngemmbfoeboghpnekdpjpgbpeiibelm)  
+  
+[![Firefox](https://i.imgur.com/j7qsIEj.png)](https://addons.mozilla.org/en-GB/firefox/addon/bbc-dark)  
 <p> </p>
 
   
