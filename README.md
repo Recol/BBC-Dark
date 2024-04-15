@@ -8,7 +8,7 @@
 [![UserStyles Logo](https://svgshare.com/i/z1g.svg)](https://userstyles.org/styles/164869/dark-bbc)  
   
 ## <u>Edge</u>    
-[![Edge Logo]([https://w7.pngwing.com/pngs/750/511/png-transparent-microsoft-edge-hd-logo-thumbnail.png](https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Edge_logo_%282019%29.png))](https://microsoftedge.microsoft.com/addons/detail/bbc-dark/mngemmbfoeboghpnekdpjpgbpeiibelm)  
+[![Edge Logo]([https://w7.pngwing.com/pngs/750/511/png-transparent-microsoft-edge-hd-logo-thumbnail.png)](https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Edge_logo_%282019%29.png))](https://microsoftedge.microsoft.com/addons/detail/bbc-dark/mngemmbfoeboghpnekdpjpgbpeiibelm)  
   
 ## <u>Firefox</u>  
 [![Firefox](https://i.imgur.com/j7qsIEj.png)](https://addons.mozilla.org/en-GB/firefox/addon/bbc-dark)  
