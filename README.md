@@ -26,10 +26,10 @@
 
 <p> </p>
 
-# Changelog
+# Changelog (Click to expand each)
 
 <details>
-  <summary><strong>V6.3 - 2024 BBC Weather Update</strong> (Click to expand)</summary>
+  <summary><strong>V6.3 - 2024 BBC Weather Update</strong></summary>
   <ul>
     <li>BBC Weather:</li>
     <ul>
@@ -54,7 +54,7 @@
 </details>
 
 <details>
-  <summary><strong>V6.2 - 2024 Update #2</strong> (Click to expand)</summary>
+  <summary><strong>V6.2 - 2024 Update #2</strong></summary>
   <ul>
     <li>BBC News:</li>
     <ul>
@@ -65,7 +65,7 @@
 </details>
 
 <details>
-  <summary><strong>V6.1 - BBC News bug fix</strong> (Click to expand)</summary>
+  <summary><strong>V6.1 - BBC News bug fix</strong></summary>
   <ul>
     <li>BBC News:</li>
     <ul>
@@ -75,7 +75,7 @@
 </details>
 
 <details>
-  <summary><strong>V6.0 - 2024 Restoration Support</strong> (Click to expand)</summary>
+  <summary><strong>V6.0 - 2024 Restoration Support</strong></summary>
   <ul>
     <li>BBC Homepage:</li>
     <ul>
