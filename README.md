@@ -8,19 +8,19 @@
 </tr>
 <tr>
     <td><strong>Chrome</strong></td>
-    <td><a href="https://chrome.google.com/webstore/detail/bbc-dark/bdifipamjgmfefcpemmlppcmcdjndhig?hl=en-GB"><img src="https://i.imgur.com/JXBf0eC.png" alt="Chrome Logo" style="width:50px;"></a></td>
+    <td><a href="https://chrome.google.com/webstore/detail/bbc-dark/bdifipamjgmfefcpemmlppcmcdjndhig?hl=en-GB"><img src="https://i.imgur.com/JXBf0eC.png" alt="Chrome Logo" style="width:100px;"></a></td>
 </tr>
 <tr>
     <td><strong>UserStyles</strong></td>
-    <td><a href="https://userstyles.org/styles/164869/dark-bbc"><img src="https://svgshare.com/i/z1g.svg" alt="UserStyles Logo" style="width:50px;"></a></td>
+    <td><a href="https://userstyles.org/styles/164869/dark-bbc"><img src="https://svgshare.com/i/z1g.svg" alt="UserStyles Logo" style="width:100px;"></a></td>
 </tr>
 <tr>
     <td><strong>Edge</strong></td>
-    <td><a href="https://microsoftedge.microsoft.com/addons/detail/bbc-dark/mngemmbfoeboghpnekdpjpgbpeiibelm"><img src="https://static-00.iconduck.com/assets.00/microsoft-edge-icon-256x256-eloac7cx.png" alt="Edge Logo" style="width:50px;"></a></td>
+    <td><a href="https://microsoftedge.microsoft.com/addons/detail/bbc-dark/mngemmbfoeboghpnekdpjpgbpeiibelm"><img src="https://static-00.iconduck.com/assets.00/microsoft-edge-icon-256x256-eloac7cx.png" alt="Edge Logo" style="width:100px;"></a></td>
 </tr>
 <tr>
     <td><strong>Firefox</strong></td>
-    <td><a href="https://addons.mozilla.org/en-GB/firefox/addon/bbc-dark"><img src="https://i.imgur.com/j7qsIEj.png" alt="Firefox Logo" style="width:50px;"></a></td>
+    <td><a href="https://addons.mozilla.org/en-GB/firefox/addon/bbc-dark"><img src="https://i.imgur.com/j7qsIEj.png" alt="Firefox Logo" style="width:100px;"></a></td>
 </tr>
 </table>
 
