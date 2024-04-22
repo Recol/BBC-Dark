@@ -1,0 +1,36 @@
+{
+	"name": "BBC Dark",
+	"version": "6.4",
+	"manifest_version": 3,
+	"description": "Used to darken the look of the BBC website.",
+	"short_name": "BBC Dark",
+	"author": "Deco",
+	"version_name": "Version 6.4 - 2024 Bug Fixes V3",
+
+	"icons": {
+		"128": "icon3.png",
+		"256": "icon2.png"
+
+	},
+
+
+	"content_scripts":[{
+		"matches": [
+	"https://www.bbc.bg/*",
+	"https://www.bbc.click/*",
+	"https://www.bbc.co.uk/*",
+	"https://www.bbc.cymru/*",
+	"https://www.bbc.cz/*",
+	"https://www.bbc.digital/*",
+	"https://www.bbc.eu/*",
+	"https://www.bbc.london/*",
+	"https://www.bbc.mobi/*",
+	"https://www.bbc.com/*",
+	"https://www.bbc.tokyo/*"
+],
+		"css": ["code1.css", "sports.css", "main.css"]
+		
+	}]
+	 
+	
+}

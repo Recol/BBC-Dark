@@ -13,6 +13,17 @@
 # Changelog (Click to expand each)
 
 <details>
+  <summary><strong>V6.4 - 2024 Bug Fixes</strong></summary>
+  <ul>
+    <li>BBC News:</li>
+    <ul>
+      <li>Fixes to the live coverage to darken border frames that were appearing white.</li>
+      <li>Darkened the "Search" button to be themed correctly instead of being white, including the button.</li>
+    </ul>
+  </ul>
+</details>
+
+<details>
   <summary><strong>V6.3 - 2024 BBC Weather Update</strong></summary>
   <ul>
     <li>BBC Weather:</li>
