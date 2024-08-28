@@ -11,7 +11,40 @@
 <p> </p>
 
 # Changelog (Click to expand each)
-
+<details>
+  <summary><strong>V7.0 - 2024 Major Update</strong></summary>
+  <ul>
+    <li>BBC Homepage:</li>
+    <ul>
+      <li>Fixed compatibility issues with some areas not being dark.</li>
+      <li>Darkened the 'View More' buttons.</li>
+    </ul>
+    <li>BBC News:</li>
+    <ul>
+      <li>Restored working compatibility.</li>
+      <li>Fixed the top header bar to ensure it's not white.</li>
+      <li>Redarkened the BBC Search bar.</li>
+      <li>Improved legibility of button text.</li>
+      <li>Fixed text legibility under "Top Stories" in the right section.</li>
+      <li>Additional fixes to live coverage sections to darken both editorial and live feed.</li>
+      <li>Darkened the bottom section under 'Onwards'.</li>
+      <li>Increased legibility for buttons on live coverage.</li>
+    </ul>
+    <li>BBC Weather:</li>
+    <ul>
+      <li>Updated the homepage to improve dark coverage.</li>
+      <li>Fixed visibility of text and titles.</li>
+      <li>Cleaned up bottom sections for better visibility.</li>
+    </ul>
+    <li>BBC Sport:</li>
+    <ul>
+      <li>Improved legibility for article contents.</li>
+      <li>Darkened the live coverage sections.</li>
+      <li>Added support for the Scores section under live coverage.</li>
+      <li>Darkened the scores section.</li>
+    </ul>
+  </ul>
+</details>
 <details>
   <summary><strong>V6.4 - 2024 Bug Fixes</strong></summary>
   <ul>
