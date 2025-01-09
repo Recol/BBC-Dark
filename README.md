@@ -1,4 +1,3 @@
-
 # Downloads:
 
 | Browser        | Download |
@@ -11,6 +10,17 @@
 <p> </p>
 
 # Changelog (Click to expand each)
+<details>
+
+  <summary><strong>V7.1 - 2025 Compatibility Update</strong></summary>
+  <ul>
+    <li>BBC Sport:</li>
+    <ul>
+      <li>Updated BBC Sports links to be readable under the dark theme.</li>
+    </ul>
+  </ul>
+</details>
+
 <details>
   <summary><strong>V7.0 - 2024 Major Update</strong></summary>
   <ul>
@@ -138,4 +148,3 @@
     </ul>
   </ul>
 </details>
-  
